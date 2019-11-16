@@ -1,0 +1,44 @@
+* {
+    background-color: chocolate;
+}
+
+.page {
+    background-color: chocolate;
+}
+
+.heading {
+    text-align: center;
+    font-size: 50px;
+    text-decoration-color: chocolate;
+    /* width: 100px; */
+}
+
+.holder {
+    /* align-self: center;
+    margin-left: 50px;
+    margin-right: 45px; */
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid green; */
+}
+
+.place {
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px;
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+.btn {
+    background-color: rgba(255, 0, 0, 0.3);
+    align-self: center;
+    /* background-color: indigo; */
+    /* padding: 50px; */
+    margin: 20px;
+    width: 100px;
+    height: 25px;
+    border: indigo;
+}
